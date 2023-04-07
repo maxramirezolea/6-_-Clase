@@ -1,1 +1,1 @@
-# 6-_-Clase
+# 6_Clase
